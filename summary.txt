@@ -1,0 +1,15 @@
+Nama : Muhammad Firdausi
+No Peserta : INPG-PKJ-10-043
+--TUGAS FINAL PROJEK--
+
+Di final projek ini saya menggunakan template one page
+Menggunakan framework Bootstrap
+
+adapun perubahan yang saya lakukan diantaranya
+1. pada index.html mengganti isi conten pada setiap menunya dengan menyesuaikan kepada diri saya
+2. di file style.css - menggati warna primary dari bawaanya, diganti dengan warna hijau sesuai keinginan saya
+3. unuk file javascript - tidak ada melakukan edit pada codenya
+
+Setelah mengatur dan selesai semuanya baru di push ke repository github
+
+Melakukan deploy - untuk deploy, saya menggunakan github page. untuk netlify masih ada kendala error ketika membuat akun.
